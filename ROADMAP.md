@@ -30,3 +30,7 @@ Volunteers wanted for the following topics. Feel free to send a PR that adds you
 
 ## IDE/build tool integration
 * Someone familiar with Qt (= not me, probono) should have a deep look at http://code.qt.io/cgit/qt/qttools.git/tree/src/macdeployqt/ and see if the same can be done to generate an AppImage **[DONE](https://github.com/probonopd/linuxdeployqt)**
+
+## IRC #appimage 
+get a chanserv - bart
+todo for the 33c3 lightn. talk - bart
